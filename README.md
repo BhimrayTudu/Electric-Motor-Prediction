@@ -1,2 +1,2 @@
 # Electric-Motor-Prediction
-Evaluating Motor speed based of different features . 
+The Electric Motor Prediction project is designed to predict the performance characteristics of electric motors based on various input parameters such as voltage, current, power, speed, and temperature. Using machine learning techniques, this model helps in forecasting motor behavior and performance under different operating conditions, offering valuable insights for design, diagnostics, and optimization.
